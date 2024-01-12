@@ -1,4 +1,5 @@
-#Jose Alberto Pérez Rego 
+#Jose Alberto Pérez Rego
+
 ##Personal Portfolio Under Construction.
 
 _Full Stack Developer in progress, with a special interest in Front-End and UX/UI Design. I also have academic studies in music, non-fiction
